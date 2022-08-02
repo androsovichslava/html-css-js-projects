@@ -1,1 +1,2 @@
-let str = document.body.append('<div>Привет из жс</div>')
+let str = document.querySelector('#main');
+str.innerHTML = 'Hello from js';
