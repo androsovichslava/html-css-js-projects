@@ -1,0 +1,1 @@
+let str = document.body.append('<div>Привет из жс</div>')
